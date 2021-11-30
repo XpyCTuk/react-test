@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  margin-top: 22px;
+}
+
+.logo_сaption {
+  padding: 7px;
+  font-weight: 600;
+  font-size: 24px;
+  color: #221874;
+}

@@ -1,0 +1,7 @@
+.login_wrapper {
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  font-size: 14px;
+  margin-top: 37px;
+}
