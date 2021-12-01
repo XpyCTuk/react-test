@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "../StylesForComponents/AuthorizationComponent.css";
+import "../StylesForComponents/AuthorizationComponent.css";
 
 const AuthorizationComponent = () => {
   return <div className={"login_wrapper"}>log in</div>;
