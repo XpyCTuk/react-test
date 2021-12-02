@@ -1,12 +1,61 @@
+.main {
+  display: flex;
+}
+
+.main_wrapper {
+  margin-top: 65px;
+  border: 3px solid #f6f7f8;
+  margin-left: 115px;
+}
+
+.main-conteiner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .header {
+  box-shadow: 0px 4px 4px #e9e8f1;
+}
+
+.header_wrapper {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  /* margin-top: 20px; */
-  margin-left: 64px;
-  margin-right: 64px;
+  margin-top: 22px;
+  margin-bottom: 1px;
+  margin-left: 67px;
+  margin-right: 67px;
 }
 
-.main {
-  font-size: 45px;
+.logo_wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.logo_caption {
+  font-weight: 600;
+  font-size: 24px;
+  color: #221874;
+  padding-left: 7px;
+}
+
+.seacrch-field_input {
+  padding: 12px;
+  width: 538px;
+}
+
+.authorization_wrapper {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.main_content-title {
+  margin-left: 43px;
+  margin-top: 80px;
+}
+
+.main_content {
+  margin-left: 43px;
+  margin-top: 46px;
 }
